@@ -2,7 +2,7 @@
 
 <html>
 <div>
-  <a href="http://MCdabiaoge.github.io">MCdabiaoge</a>
+  <a  target="_blank" href="http://MCdabiaoge.github.io">MCdabiaoge</a>
 </div>
 </html>
 
